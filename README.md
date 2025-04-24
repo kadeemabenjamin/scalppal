@@ -1,4 +1,4 @@
-# SmartBuizBuddy – Trading Bot for Price Action Scalping
+# ScalpPal – Trading Bot for Price Action Scalping
 
 A Python-based trading assistant designed to help short-term traders identify real-time buy and sell signals using simple price action logic and technical indicators.
 
@@ -23,4 +23,4 @@ This is a foundational version. I'm exploring integration with live market data 
 
 1. Clone this repo:
 ```bash
-git clone https://github.com/kadeemabenjamin/smartbuizbuddy.git
+git clone https://github.com/kadeemabenjamin/scalppal.git
